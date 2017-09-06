@@ -21,7 +21,7 @@ List all courses I taken in Northwestern University (3.9/4.0)
 
 2017 Spring
 
-[ME 495](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/495-applied-mechatronics-quadrotor-design-and-control.html) - Mechatronics with Quadrotor Project (A) ([Github link](https://github.com/MuMu1018/Mengjiao_ME495_2017))
+[ME 495](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/495-applied-mechatronics-quadrotor-design-and-control.html) - Mechatronics with Quadrotor Project (A) [Github link](https://github.com/MuMu1018/Mengjiao_ME495_2017/blob/master/README.md)
 
 [ME 433](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/433-advanced-mechatronics.html) - Advanced Mechatronics (A) ([Github link](https://github.com/MuMu1018/Mengjiao_ME433_2017))
 
