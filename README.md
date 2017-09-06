@@ -9,6 +9,8 @@ List all courses I taken in Northwestern University
 
 [ME 433](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/433-advanced-mechatronics.html) - Advanced Mechatronics ([Github link](https://github.com/MuMu1018/Mengjiao_ME433_2017))
 
+[ME 439](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/439-computer-control-in-manufacturing.html) - Computer Control in Manufacturing
+
 [ME 341](https://www.mccormick.northwestern.edu/mechanical/courses/descriptions/341-computational-methods-for-engineering-design.html)- Computational Methods for Engineering Design
 
 [ME 333](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/333-introduction-to-mechatronics.html) - Intro to Mechatronics
