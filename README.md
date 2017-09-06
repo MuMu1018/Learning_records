@@ -1,4 +1,4 @@
-## Courses-taken-in-Northwestern-University
+## Courses taken in Northwestern University
 List all courses I taken in Northwestern University (3.9/4.0)
 
 2016 FALL
