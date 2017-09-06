@@ -26,5 +26,5 @@ List all courses I taken in Northwestern University (3.9/4.0)
 [ME 433](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/433-advanced-mechatronics.html) - Advanced Mechatronics (A) ([Github link](https://github.com/MuMu1018/Mengjiao_ME433_2017))
 
 ## Courses taking on Coursera
-[Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) - provided by Stanford University
+[Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) - provided by Stanford University (On progress)
 
