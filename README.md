@@ -12,9 +12,7 @@ List all courses I taken in Northwestern University
 
 [ME 333](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/333-introduction-to-mechatronics.html) - Intro to Mechatronics
 
-[ME 433](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/433-advanced-mechatronics.html) - Advanced Mechatronics
-- (Github link: https://github.com/MuMu1018/Mengjiao_ME433_2017)
+[ME 433](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/433-advanced-mechatronics.html) - Advanced Mechatronics([Github link](https://github.com/MuMu1018/Mengjiao_ME433_2017))
 
-[ME 495](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/495-applied-mechatronics-quadrotor-design-and-control.html) - Mechatronics with Quadrotor Project
-- (Github link: https://github.com/MuMu1018/Mengjiao_ME495_2017)
+[ME 495](http://www.mccormick.northwestern.edu/mechanical/courses/descriptions/495-applied-mechatronics-quadrotor-design-and-control.html) - Mechatronics with Quadrotor Project([Github link](https://github.com/MuMu1018/Mengjiao_ME495_2017))
 
