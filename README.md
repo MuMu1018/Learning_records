@@ -1,5 +1,5 @@
 ## Courses taken in Northwestern University
-List all courses I taken in Northwestern University (3.9/4.0)
+List all courses I taken in Northwestern University (3.82/4.00)
 
 2016 FALL
 
