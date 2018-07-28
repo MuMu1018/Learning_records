@@ -38,5 +38,8 @@ List all courses I taken in Northwestern University (3.82/4.00)
 ## Courses taking on Coursera
 [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) - provided by Stanford University (Grade: 100%)
 
-[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/info) - provided by UCSD (In progress)
+[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/info) - provided by UCSD (Grade: 95%)
+
+[Data Structures](https://www.coursera.org/learn/data-structures/home/info) - provided by UCSD (Grade: 100%)
+
 
