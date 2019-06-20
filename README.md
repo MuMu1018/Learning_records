@@ -1,4 +1,4 @@
-## Courses taken in Northwestern University
+### Courses taken in Northwestern University
 List all courses I taken in Northwestern University (3.82/4.00)
 
 2016 FALL
@@ -35,7 +35,7 @@ List all courses I taken in Northwestern University (3.82/4.00)
 
 [MEM 407](http://www.mccormick.northwestern.edu/engineering-management/curriculum/descriptions/414.html) - Supply Chain Management (A-)
 
-## Courses taking on Coursera
+### Courses taking on Coursera
 [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info) - provided by Stanford University (Grade: 100%)
 
 [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/info) - provided by UCSD (Grade: 95%)
